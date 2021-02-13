@@ -44,7 +44,7 @@ ICON = "mdi:bus"
 
 SCAN_INTERVAL = timedelta(minutes=1)
 
-BUS_TYPES = ["BUS", "EXB", "TB"]
+BUS_TYPES = ["BUS", "EXB", "NB"]
 TRAIN_TYPES = ["LET", "S", "REG", "IC", "LYN", "TOG"]
 METRO_TYPES = ["M"]
 
